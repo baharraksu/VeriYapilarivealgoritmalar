@@ -1,5 +1,5 @@
 # Veri Yapilari Ve Algoritmalar
-
+[www.patika.dev](www.patika.dev)
 ## Insertion Sort Projesi<br>
 
 `SORU: [22,27,16,2,18,6] -> Insertion Sort` 
